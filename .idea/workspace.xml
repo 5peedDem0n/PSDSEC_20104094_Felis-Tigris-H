@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.If">
     <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Hellow" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -39,8 +39,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.If" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.If" />
         <item itemvalue="Application.Hellow" />
       </list>
     </recent_temporary>
