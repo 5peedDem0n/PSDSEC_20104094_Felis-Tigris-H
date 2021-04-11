@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.If">
+  <component name="RunManager" selected="Application.Switch">
     <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Hellow" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -52,8 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Switch" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch" />
         <item itemvalue="Application.If" />
         <item itemvalue="Application.Hellow" />
       </list>
@@ -71,21 +85,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1617762402625">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1618122154000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617762402625" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1617762402624">
+    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618122154000" />
+    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1618122153999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617762402624" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1617762402624">
+    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618122153999" />
+    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1618122153999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617762402624" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1617762402624">
+    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618122153999" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1618122154000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617762402624" />
+    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618122154000" />
   </component>
 </project>
