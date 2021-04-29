@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.program2">
+  <component name="RunManager" selected="Application.MaxSum1">
     <configuration name="MaxSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul2.praktikum.MaxSum1" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -39,12 +39,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul1.praktikum.program2" />
+    <configuration name="fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul3.praktikum.fibonacci" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.modul1.praktikum.*" />
+          <option name="PATTERN" value="id.felis.modul3.praktikum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul1.praktikum.program3" />
+    <configuration name="program2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul1.praktikum.program2" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.program2" />
         <item itemvalue="Application.MaxSum1" />
+        <item itemvalue="Application.fibonacci" />
+        <item itemvalue="Application.program2" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.program4" />
-        <item itemvalue="Application.program3" />
       </list>
     </recent_temporary>
   </component>
@@ -113,26 +113,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1619244527025">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1619604391495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619244527025" />
-    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1619244527024">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619604391495" />
+    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1619604391494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619244527024" />
-    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1619244527024">
+    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619604391494" />
+    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1619604391494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619244527024" />
-    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1619244527024">
+    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619604391494" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1619604391494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619244527024" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619604391494" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1618972390744">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618972390744" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1619575144988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1619575144988" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1619436384123">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
