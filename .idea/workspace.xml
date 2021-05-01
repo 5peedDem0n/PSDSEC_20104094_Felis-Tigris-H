@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.fibonacci1">
+  <component name="RunManager" selected="Application.fibonacci2">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Array" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -44,8 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fibonacci2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul3.praktikum.fibonacci2" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul3.praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci2" />
         <item itemvalue="Application.fibonacci1" />
         <item itemvalue="Application.Array" />
       </list>
