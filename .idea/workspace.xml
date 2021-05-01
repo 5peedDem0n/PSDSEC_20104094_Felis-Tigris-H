@@ -17,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.fibonacci3">
+  <component name="RunManager" selected="Application.fibonacci4">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Array" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -70,8 +70,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fibonacci4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul3.praktikum.fibonacci4" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul3.praktikum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacci4" />
         <item itemvalue="Application.fibonacci3" />
         <item itemvalue="Application.fibonacci2" />
         <item itemvalue="Application.fibonacci1" />
@@ -83,21 +97,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1619849979475">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1619850349382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619849979475" />
-    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1619849979475">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619850349382" />
+    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1619850349382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619849979475" />
-    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1619849979475">
+    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619850349382" />
+    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1619850349381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619849979475" />
-    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1619849979475">
+    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619850349381" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1619850349382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619849979475" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619850349382" />
   </component>
 </project>
