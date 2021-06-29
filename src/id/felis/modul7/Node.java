@@ -2,10 +2,10 @@ package id.felis.modul7;
 
 public class Node {
 
-    Object data;
+    Siswa data;
     Node next;
 
-    Node(Object a){
+    Node(Siswa a){
         this.data = a;
     }
 }

@@ -24,36 +24,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Array" />
-      <module name="PSDSEC_20104094_Felis-Tigris-H" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Hellow" />
-      <module name="PSDSEC_20104094_Felis-Tigris-H" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.If" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
@@ -78,6 +55,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul7.Main" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul7.Queue" />
+      <module name="PSDSEC_20104094_Felis-Tigris-H" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.felis.modul7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Switch" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -93,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Queue" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.LoopFor" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.Hellow" />
       </list>
     </recent_temporary>
   </component>
@@ -113,22 +116,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="637" height="251" key="GridCell.Tab.0.bottom" timestamp="1624889693383">
+    <state x="829" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1624891044692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="251" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624889693383" />
-    <state width="637" height="251" key="GridCell.Tab.0.center" timestamp="1624889693382">
+    <state x="829" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624891044692" />
+    <state width="637" height="90" key="GridCell.Tab.0.bottom" timestamp="1624977675634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="251" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624889693382" />
-    <state width="637" height="251" key="GridCell.Tab.0.left" timestamp="1624889693382">
+    <state width="637" height="90" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624977675634" />
+    <state width="637" height="90" key="GridCell.Tab.0.center" timestamp="1624977675634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="251" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624889693382" />
-    <state width="637" height="251" key="GridCell.Tab.0.right" timestamp="1624889693383">
+    <state width="637" height="90" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624977675634" />
+    <state width="637" height="90" key="GridCell.Tab.0.left" timestamp="1624977675634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="251" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624889693383" />
+    <state width="637" height="90" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624977675634" />
+    <state width="637" height="90" key="GridCell.Tab.0.right" timestamp="1624977675634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="90" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624977675634" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618239614816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
