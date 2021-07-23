@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Array" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
@@ -39,12 +39,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hellow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Hellow" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul10.BubbleSort" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="PATTERN" value="id.felis.modul10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.If" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul10.InsertionSort" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="PATTERN" value="id.felis.modul10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.LoopFor" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul10.Main" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="PATTERN" value="id.felis.modul10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.felis.modul0.Switch" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.felis.modul10.SelectionSort" />
       <module name="PSDSEC_20104094_Felis-Tigris-H" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="id.felis.modul0.*" />
+          <option name="PATTERN" value="id.felis.modul10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.LoopFor" />
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.If" />
-        <item itemvalue="Application.Hellow" />
       </list>
     </recent_temporary>
   </component>
@@ -113,25 +113,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1618242010592">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="800" y="122" key="FileChooserDialogImpl" timestamp="1626848366226">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618242010592" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1618242010591">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="800" y="122" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1626848366226" />
+    <state width="636" height="296" key="GridCell.Tab.0.bottom" timestamp="1626911862770">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618242010591" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1618242010591">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="636" height="296" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1626911862770" />
+    <state width="636" height="296" key="GridCell.Tab.0.center" timestamp="1626911862770">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618242010591" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1618242010591">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="636" height="296" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1626911862770" />
+    <state width="636" height="296" key="GridCell.Tab.0.left" timestamp="1626911862770">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618242010591" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618239614816">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="636" height="296" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1626911862770" />
+    <state width="636" height="296" key="GridCell.Tab.0.right" timestamp="1626911862770">
+      <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1618239614816" />
+    <state width="636" height="296" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1626911862770" />
   </component>
 </project>
